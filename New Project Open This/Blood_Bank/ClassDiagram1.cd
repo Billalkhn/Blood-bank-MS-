@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Blood_Bank.Admin_Login">
+    <Position X="6" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAQAAAAAAAAAAAAAAACAAAAAAAAAAAAA=</HashCode>
+      <FileName>Admin Login.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Blood_Bank.AdminUP">
+    <Position X="4.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAACAEAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AdminUP.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Blood_Bank.adminpanel" Collapsed="true">
+    <Position X="8.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>adminpanel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Blood_Bank.blood_Donor_Need">
+    <Position X="6.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>blood_Donor_Need.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Blood_Bank.donorEntry" Collapsed="true">
+    <Position X="8.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAIAA=</HashCode>
+      <FileName>donorEntry.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Blood_Bank.recieverinfo">
+    <Position X="4.25" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>recieverinfo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Blood_Bank.Program" Collapsed="true">
+    <Position X="8.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
